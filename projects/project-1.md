@@ -59,18 +59,14 @@ Finally, you are ready to use the program!
 
 **Step 2:** Insert Twitter authentication keys that you have obtained.
 
-<p align="center">
-<img width="640" height="250" src="../images/Settinguptwitter.PNG" class="responsive">
-</p>
+<img class="ui fluid image"  src="../images/Settinguptwitter.PNG">
 
 **Step 3:** Excecute the cell. A prompt will appear requesting for your input, insert the keyword that you wish to find and hit ENTER. 
 
 * For the keyword, you can insert one or more words, the end result is dependent on Twitter search algorithm.
 * As an example, I will be searching for the keyword 'jamus lim', a Singaporean politician who is currently a local internet sentation.
 
-<p align="center">
-<img width="640" height="250" src="../images/searchtwitter.PNG" class="responsive">
-</p>
+<img class="ui fluid image"  src="../images/searchtwitter.PNG">
 
 **Step 4:** That's all! 
 
@@ -78,13 +74,9 @@ Finally, you are ready to use the program!
 
 * Here are the results
 
-<p align="center">
-<img width="600" height="400" src="../images/result_1.png" class="responsive">
-</p>
+<img class="ui fluid image"  src="../images/result_1.png">
 
-<p align="center">
-<img width="600" height="300" src="../images/result_2.png" class="responsive">
-</p>
+<img class="ui fluid image"  src="../images/result_2.png">
 
 The result is accurate to a certain extend. Singaporeans have high admiration for Jamus Lim and it was well reflected by the sentiment analysis. Out of the 34 scrapped tweets, 17 (50%) were deemed positive, 15(44%) were deemed neutral or objective and 2 (5%) were deemed negative. 
 
