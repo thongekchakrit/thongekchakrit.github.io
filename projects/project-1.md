@@ -80,7 +80,7 @@ Finally, you are ready to use the program!
 * Here are the results
 
 <p align="center">
-<img width="600" height="300" src="../images/result_1.png" class="responsive">
+<img width="600" height="400" src="../images/result_1.png" class="responsive">
 </p>
 
 <p align="center">
