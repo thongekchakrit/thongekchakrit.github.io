@@ -78,11 +78,11 @@ Finally, you are ready to use the program!
 * Here are the results
 
 <p align="center">
-<img width="640" height="300" src="../images/result_1.png">
+<img width="600" height="300" src="../images/result_1.png">
 </p>
 
 <p align="center">
-<img width="640" height="300" src="../images/result_2.png">
+<img width="600" height="300" src="../images/result_2.png">
 </p>
 
 The result is accurate to a certain extend. Singaporeans have high admiration for Jamus Lim and it was well reflected by the sentiment analysis. Out of the 34 scrapped tweets, 17 (50%) were deemed positive, 15(44%) were deemed neutral or objective and 2 (5%) were deemed negative. 
