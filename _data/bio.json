@@ -35,12 +35,12 @@
     },
     {
       "name": "data mining",
-      "keywords": ["deep learning","neural network","regression"
+      "keywords": ["Deep Learning","Neural Network","Regression"
       ]
     },
     {
       "name": "python development",
-      "keywords": [
+      "keywords": ["Software development"
       ]
     }
   ],
@@ -90,9 +90,9 @@
   "education": [
     {
       "institution": "Massey University, Singapore, SG",
-      "area": "Analytics (expected Jan, 2021)",
-      "studyType": "MAnalyt.",
-      "startDate": "Jan-2020",
+      "area": "Business (expected Jan, 2021)",
+      "studyType": "Master of Analytics,",
+      "startDate": "Jan 2020",
       "endDate": "Present",
       "gpa": "Projection 5.0/5.0",
       "courses": ["Introduction to Analytics (Python)", "Applied Econometric Methods (SAS)", 
@@ -101,6 +101,7 @@
       ]
     }
   ],
+  
   "references": [
     {
       "name": "Available upon request",
