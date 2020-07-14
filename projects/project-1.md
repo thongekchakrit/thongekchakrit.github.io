@@ -16,8 +16,10 @@ labels:
 summary: TwitAnlysis-to-csv scrapes user specified keywords and hashtags, performs sentiment analysis using textblob lexicon and plots the result with a click.
 ---
 <p align="center">
-  <img width="640" height="300" src="../images/overview.gif">
+  <img width="640" height="300" src="../images/overview.gif" >
 </p>
+
+<img class="ui medium rounded image" src="../images/overview.gif">
 
 More and more people are turning online to voice their opinions, whether on products, services, politics, or daily issues. To get a better picture of how the crowd is feeling, it is important to analyze their opinions. 
 
