@@ -16,7 +16,7 @@ labels:
 summary: TwitAnlysis-to-csv scrapes user specified keywords and hashtags, performs sentiment analysis using textblob lexicon and plots the result with a click.
 ---
 <p align="center">
-  <img width="640" height="300" src="https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/overview.gif">
+  <img width="640" height="300" src="../images/overview.gif">
 </p>
 
 More and more people are turning online to voice their opinions, whether on products, services, politics, or daily issues. To get a better picture of how the crowd is feeling, it is important to analyze their opinions. 
@@ -60,9 +60,7 @@ Finally, you are ready to use the program!
 
 **Step 2:** Insert Twitter authentication keys that you have obtained.
 
-<p align="center">
-<img width="640" height="300" src="https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/Settinguptwitter.PNG">
-</p>
+![Setting Up Twitter Credentials](../images/Settinguptwitter.PNG)
 
 **Step 3:** Excecute the cell. A prompt will appear requesting for your input, insert the keyword that you wish to find and hit ENTER. 
 
@@ -70,7 +68,7 @@ Finally, you are ready to use the program!
 * As an example, I will be searching for the keyword 'jamus lim', a Singaporean politician who is currently a local internet sentation.
 
 <p align="center">
-<img width="640" height="300" src="https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/searchtwitter.PNG">
+<img width="640" height="300" src="../images/searchtwitter.PNG">
 </p>
 
 **Step 4:** That's all! 
@@ -80,11 +78,11 @@ Finally, you are ready to use the program!
 * Here are the results
 
 <p align="center">
-<img width="640" height="300" src="https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/result_1.png">
+<img width="640" height="300" src="../images/result_1.png">
 </p>
 
 <p align="center">
-<img width="640" height="300" src="https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/images/result_2.png">
+<img width="640" height="300" src="../images/result_2.png">
 </p>
 
 The result is accurate to a certain extend. Singaporeans have high admiration for Jamus Lim and it was well reflected by the sentiment analysis. Out of the 34 scrapped tweets, 17 (50%) were deemed positive, 15(44%) were deemed neutral or objective and 2 (5%) were deemed negative. 
