@@ -76,7 +76,7 @@ In this study, we will follow the international classification of classifying an
 
 **2.2.1. Changes in Life Expectancy from 1960 to 2018**
 
-<img class="ui fluid image"  src="../images/fig1_IntroAn_p1.PNG">
+<img class="ui fluid image"  src="../images/fig1_IntroAn_p1.png">
 
 
 * The trend of life expectancy at birth and at age 65 years have increased from 1960 to 2018.
@@ -89,9 +89,9 @@ In this study, we will follow the international classification of classifying an
 
 Although the increase of life expectancy at birth was greater than the increase of life expectancy at age 65 years, to find the trend of life expectancy, the rate of change must be considered. 
 
-<img class="ui fluid image"  src="../images/fig2_IntroAn_p1.PNG">
+<img class="ui fluid image"  src="../images/fig2_IntroAn_p1.png">
 
-<img class="ui fluid image"  src="../images/fig3_IntroAn_p1.PNG">
+<img class="ui fluid image"  src="../images/fig3_IntroAn_p1.png">
 
 * The mean rate of change of life expectancy at age 65 years is 3.5 times higher than the mean rate of change of life expectancy at birth (Figure 2).
 * From 1975 to 1980, there was a sharp increase in life expectancy at age 65 years (Figure 3), with a value of approximately 64%.
@@ -118,7 +118,7 @@ In Singapore, a person who is 65 years or older is classified as an elderly. In 
 
 The analysis of this percentage signifies population ageing due to declining fertility rates and rising life expectancy. The changes in the percentage of elderly population can give us insights into raising new demographic challenges such as an increase in the total dependency population and a shrinking labor force. 
 
-<img class="ui fluid image"  src="../images/fig4_IntroAn_p1.PNG">
+<img class="ui fluid image"  src="../images/fig4_IntroAn_p1.png">
 
 * There was a steady increase in the elderly population during the period 1960-2018.
 * Elderly population passes the 7% mark between the period 1999-2000.
@@ -140,7 +140,7 @@ This section has been divided into two parts:
 
 **2.3.1. Life Expectancy and GDP Per Capita**
 
-<img class="ui fluid image"  src="../images/fig5_IntroAn_p1.PNG">
+<img class="ui fluid image"  src="../images/fig5_IntroAn_p1.png">
 
 * There is a positive correlation between GDP per capita and life expectancy.
 * Life expectancy in Singapore increased the most when its GDP per capita increased from \$1,310 to \$10,717
@@ -155,7 +155,7 @@ After having a GDP per capita of \$10,717, the relationship between GDP per capi
 
 **2.3.2 Household Income Expenditure on Healthcare and Life Expectancy**
 
-<img class="ui fluid image"  src="../images/fig6_IntroAn_p1.PNG">
+<img class="ui fluid image"  src="../images/fig6_IntroAn_p1.png">
 
 * There are no outlier data point for any quintile group.
 * The value of all households expenditure on healthcare is not the mean percentages of 1st to 5th quintile group.
@@ -170,7 +170,7 @@ Lower quintile groups spend more percentages of their income on healthcare compa
 
 In summary, although 1st quintile group spent the largest percentage of their income on healthcare, the top spender on healthcare belonged to 5th quintile. The logic behind that is that 5th quintile group have a higher income margin compared to 1st quintile group, and 4% of what the income was can be much larger than 5.6% of income earned by people in 1st quintile group.
 
-<img class="ui fluid image"  src="../images/fig7_IntroAn_p1.PNG">
+<img class="ui fluid image"  src="../images/fig7_IntroAn_p1.png">
 
 * Percentage household income expenditure on healthcare and life expectancy has an r-square value of 0.22.
 * The correlation between household income expenditure on health care and life expectancy is weak positive.
@@ -191,7 +191,7 @@ This section was seperated into two parts:
 
 **2.4.1. Elderly population and nation productivity**
 
-<img class="ui fluid image"  src="../images/fig8_IntroAn_p1.PNG">
+<img class="ui fluid image"  src="../images/fig8_IntroAn_p1.png">
 
 An aging population is a concern shared by many countries around world, that in the absence of offsets from another source, the labour force proportion of the population may not be able to maintain the economy output per capita (Denton and Spencer, 2019). The result of this study shows that as although growth rate of elderly population has a negative correlation to the growth rate in productivity (Figure 8.B), productivity will continue to grow (Figure 8.A), albeit at a slower rate. 
 
@@ -199,7 +199,7 @@ The number of elderly in a population is not the main determinant for productivi
 
 **2.4.2. Were there any correlations between life expectancy, elderly population, GDP Per Capita and the productivity of Singapore?**
 
-<img class="ui fluid image"  src="../images/fig9_IntroAn_p1.PNG">
+<img class="ui fluid image"  src="../images/fig9_IntroAn_p1.png">
 
 * The correlation between life expectancy to the elderly population, life expectancy at age 65, GDP per capita and productivity were 0.95, 0.99, 0.98 and 0.98 respectively.
 * The correlation between the elderly population to life expectancy, life expectancy at age 65 , GDP per capita and productivity were 0.95, 0.96, 0.98 and 0.91 respectively.
@@ -210,7 +210,7 @@ From 1983 to 2018, Figure 9 showed that there was a strong positive correlation 
 
 The lowest correlation coefficient in Figure 9 was 0.91 and the highest correlation coefficient was 0.99. This analysis had not taken other determinates and time factor into account. Life expectancy, life expectancy at age 65 years,elderly population, GDP per capita and productivity had been on the rise since 1983, hence, if there was any negative correlation towards 2018, the result will not be reflected on this matrix. To better understand the relationship between these variables, the yearly growth rate for each variable should be analyzed instead.
 
-<img class="ui fluid image"  src="../images/fig10_IntroAn_p1.PNG">
+<img class="ui fluid image"  src="../images/fig10_IntroAn_p1.png">
 
 - There was a negative correlation between growth in life expectancy and elderly population, and GDP per capita (Figure 10). 
 - There was no correlation between growth in life expectancy and growth in productivity.
@@ -274,4 +274,4 @@ Cervellati, M. & Sunde, U. 2011. Life expectancy and economic growth: the role o
 
 ## Code
 
-* [Link to this project](https://github.com/thongekchakrit/TwitAnlysis-to-csv/blob/master/notebook/Twitter%20Scrapper%20Lexicon%20Analysis.ipynb)
+* [Link to this project](https://github.com/thongekchakrit/life-expectancy-SG/blob/master/notebook/The_Effect_of_Rising_Life_Expectancy.ipynb)
