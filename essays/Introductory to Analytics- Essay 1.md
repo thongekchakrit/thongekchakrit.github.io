@@ -12,7 +12,9 @@ labels:
   - Python
 ---
 # The Effect of Aging Population on Economy: An Analysis of Singapore From 1983 to 2018.
-By Chakrit Thong Ek, Master Of Analytics, Massey University School of Business (Singapore)
+**By Chakrit Thong Ek, Master Of Analytics, Massey University School of Business (Singapore)**
+
+#### Code: [Link to this project](https://github.com/thongekchakrit/life-expectancy-SG/blob/master/notebook/The_Effect_of_Rising_Life_Expectancy.ipynb)
 
 ## Abstract 
 
