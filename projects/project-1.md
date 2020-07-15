@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/project-1.png
 title: Automated Twitter Keyword and Hashtag Sentiment Analysis
-permalink: projects/micromouse
+permalink: projects/twitter-sentiment-analysis
 # All dates must be YYYY-MM-DD format!
 date: 2020-07-14
 labels:
