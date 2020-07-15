@@ -89,6 +89,8 @@ In this study, we will follow the international classification of classifying an
 
 Although the increase of life expectancy at birth was greater than the increase of life expectancy at age 65 years, to find the trend of life expectancy, the rate of change must be considered. 
 
+<img class="ui fluid image"  src="../images/fig2_IntroAn_p1.PNG">
+
 <img class="ui fluid image"  src="../images/fig3_IntroAn_p1.PNG">
 
 * The mean rate of change of life expectancy at age 65 years is 3.5 times higher than the mean rate of change of life expectancy at birth (Figure 2).
