@@ -59,14 +59,14 @@ Finally, you are ready to use the program!
 
 **Step 2:** Insert Twitter authentication keys that you have obtained.
 
-<img class="ui fluid image"  src="../images/Settinguptwitter.PNG">
+<img class="ui fluid image"  src="../images/Settinguptwitterr.PNG">
 
 **Step 3:** Excecute the cell. A prompt will appear requesting for your input, insert the keyword that you wish to find and hit ENTER. 
 
 * For the keyword, you can insert one or more words, the end result is dependent on Twitter search algorithm.
 * As an example, I will be searching for the keyword 'jamus lim', a Singaporean politician who is currently a local internet sentation.
 
-<img class="ui fluid image"  src="../images/searchtwitter.PNG">
+<img class="ui fluid image"  src="../images/searchtwitterr.PNG">
 
 **Step 4:** That's all! 
 
