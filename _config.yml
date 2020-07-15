@@ -27,3 +27,7 @@ include: [_data]
 
 
 theme: jekyll-theme-cayman
+
+url: "https://thongekchakrit.github.io"
+plugins:
+  - jekyll-sitemap
