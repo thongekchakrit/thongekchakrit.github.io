@@ -21,15 +21,14 @@ Aging population may present challenges to many nations around the world, howeve
 ## 1. Introduction
 
 The improvement in healthcare around that world has led to a direct payoff in longer and better lives for millions. However, with a low fertility rate, the world’s population is experiencing a change in population age-structure, leading to an increase in the number and proportion of elderlies in many nations (United Nations, 2019). An increase in the proportion of elderlies in a nation could potentially increase the total dependency ratio of a country, leading to a reduction in the proportion of working-age group. This could present a challenge to the country's economy as the nation's productivity may decrease (Adamis *et al.*, 2014).
-<br>
-<br>
+
 With the social and health changes since its independence after the separation from Malaysia in 1965, Singapore may be facing a concomitant demographic transition like many nations in the world (Lim *et al*., 2013). In this study, we will find out the demongraphic make up of Singapore, what drives the improvement in life expectancy and the effect of demongraphic shift on Singapore's productivity.
 
 ### 1.1. Analysis Questions
 
 Demographic makeup of Singapore.
 - What is the changes in life expectancy overtime?
- - What percentage of the population consist of the elderly?
+- What percentage of the population consist of the elderly?
 
 What drove the increase in life expectancy?
  - Is there a correlation with the life expectancy and GDP per capita?
