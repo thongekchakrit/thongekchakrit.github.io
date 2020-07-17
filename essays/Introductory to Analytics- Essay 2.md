@@ -19,7 +19,7 @@ The global outbreak of the COVID-19 had caused countries to lose millions as bus
 
 In this study, the impact of COVID-19 pandemic on ASEAN foreign exchange rate and air quality were examined. Our result showed that due to the pandemic, there was a depreciation in Singapore, Indonesia, Malaysia, and Thailand's currencies against the US dollars, while Philippines peso appreciated against the later as investors shifted to governmental bonds. Singapore and Malaysia saw no improvement in air quality, while Thailand and the Philippines saw an improvement in their air quality starting in April 2020. However, the improvement in Thailand's air quality was most likely unlinked to the pandemic while the Philippines was. Indonesia amongst the other country may see a worsening effect on their air quality as she enters her 'fire season' unless actions are taken against the burning of crops.
 
-#### Code: [Link to this project](https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/notebook/Impact%20of%20COVID-19%20on%20Air%20Quality%20and%20foreign%20exchange%20rate%20in%20ASEAN%20countries.ipynb)
+#### My Live Code: [Github](https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/notebook/Impact%20of%20COVID-19%20on%20Air%20Quality%20and%20foreign%20exchange%20rate%20in%20ASEAN%20countries.ipynb)
 
 ## 1. Introduction
 

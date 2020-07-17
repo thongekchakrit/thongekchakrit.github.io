@@ -20,7 +20,7 @@ labels:
 
 Aging population may present challenges to many nations around the world, however, the effect of aging population in Singapore remains unanswered. While many studies show that an aging population can increase total dependency ratio of a country, thereby, reducing the proportion of working-age group, the effect of an aging population and its driving factor in Singapore remains debatable. In this study, the effect of an aging population and factors contributing to increase in life expectancy were examined. Our result shows that life expectancy increases as GDP per capita increases, however, life expectancy flattens out when GDP per capita reaches $10,717 per capita. In addition, our results showed that in Singapore, an increase in elderly population does not correlate to a reduction in GDP per capita. 
 
-#### Code: [Link to this project](https://github.com/thongekchakrit/life-expectancy-SG/blob/master/notebook/The_Effect_of_Rising_Life_Expectancy.ipynb)
+#### My Live Code: [Github](https://github.com/thongekchakrit/life-expectancy-SG/blob/master/notebook/The_Effect_of_Rising_Life_Expectancy.ipynb)
 
 ## 1. Introduction
 
