@@ -110,16 +110,11 @@ Next, the Foreign Exchange Rate was scrapped from Yahoo Finance. To do so, we be
 
 Following the data acquisition from Yahoo finance, the air quality dataset was imported from the CSV file. Next the countries of interest were selected and the variables were formatted to suit the data structure.
 
-## 3. Exploratory Data Analysis
+## 3. Exploratory Data Analysis and Results
 
 In order for us to gain insights to the impact of COVID-19 on ASEAN foreign exchange rate and air quality, we will start off by answering a few research questions in the exploratory analysis section. During the exploratory data analysis, we will create more questions to aid us in analyzing the datasets.
 
 Here an attempt to explore the data was made, we started off by answering the initial questions mentioned in section 1 (Exploratory Analysis Questions).
-
-### 2.2.  Demongraphic Makeup of Singapore
-
-In this section, the trend of life expectancy of Singapore residents from 1960 to 2018 was evaluated. In addition, the demographic of Singapore elderly population was analyzed. 
-
 
 **3.1. Covid-19 Pandemic January to April 2020**
 
