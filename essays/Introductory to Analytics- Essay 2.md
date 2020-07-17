@@ -5,7 +5,6 @@ title: The Impact of the Novel Coronavirus Disease 2019 on the ASEAN Foreign Exc
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-29
 labels:
-  - Introduction to Data Analysis
   - Data Analysis
   - Data Visualization
   - COVID-19, Air quality, Yahoo finance
