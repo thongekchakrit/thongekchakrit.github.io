@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Effect of an Aging Population on the Economy, An Analysis on Singapore 1983-2018
+title: The Effect of an Aging Population on the Economy, An Analysis on Singapore (1983-2018)
 # All dates must be YYYY-MM-DD format!
 date: 2020-03-01
 labels:
