@@ -8,7 +8,10 @@ labels:
   - Introduction to Data Analysis
   - Data Analysis
   - Data Visualization
-  - Pandas, NumPy, Seaborn, Matplotlib
+  - Pandas
+  - NumPy
+  - Seaborn
+  - Matplotlib
   - Python
 ---
 **By Chakrit Thong Ek, Master Of Analytics, Massey University School of Business (Singapore)**
