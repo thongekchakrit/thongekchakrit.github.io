@@ -128,8 +128,6 @@ In this section, the trend of life expectancy of Singapore residents from 1960 t
 
 In this section, we aimed to find the country with the highest number of COVID cases. This question was meant to help us gather more information on the dataset before deeper analysis could be performed.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig1_p2.png">
-
 **The highest and lowest number of confirmed cases**
 
 Looking at the graph above, we can see that the highest confirmed cases belonged to Philippines , followed by Malaysia, Indonesia, Singapore and Thailand. Vietnam, Brunei, Cambodia, Burma and Laos had relatively lower number compared to the former group. Laos had 19 confirmed cases by the end of April 13th, this was much lower in comparison to Philippines , Malaysia, Indonesia, Singapore and Thailand. There was a contrast between the upper and lower half of the countries, the number of confirmed cases of the lower and upper quantile (Thailand and Vietnam) were approximately 10 times the size.
@@ -137,7 +135,7 @@ Looking at the graph above, we can see that the highest confirmed cases belonged
 This graph does not, however, tell us which countries were the first to detect the virus.The question we can ask next was which country was the first to detect the virus on their shore. To best represent this, I think an animated bar graph would best satisfy the condition.
 
 <p align="center">
-  <img width="798" height="336" src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig2_p2.gif">
+  <img width="798" height="336" src="../images/fig2_p2.gif">
 </p>
 
 **The first Country to detect the virus on her shore**
@@ -148,7 +146,7 @@ By the end of April 13th, however,Thailand was not the country with the most num
 
 Thailand, Singapore, Indonesia, Malaysia and Philippines had a significantly large number of confirmed cases compared to Vietnam, Brunei, Cambodia, Burma (Myanmar) and Laos. To help us understand the effect of COVID-19 on the foreign exchange and air quality, the former group were selected for further analysis.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig3_p2.png">
+<img class="ui fluid image"  src="../images/fig3_p2.png">
 
 **The growth rate of confirmed, recovered and death cases of Thailand, Singapore, Indonesia, Malaysia and the Philippines**
 
@@ -162,7 +160,7 @@ Looking at the graph above, it suggests that Thailand, Malaysia, and Singapore w
 
 Thailand, Malaysia, Singapore, Indonesia, and the Philippines were the ASEAN members that were affected the most by the Pandemic, hence, my focus will be directed to these countries. Next we analyzed the ratio of active, recovered and death cases caused by the pandemic.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig4_p2.png">
+<img class="ui fluid image"  src="../images/fig4_p2.png">
 
 **The ratio of active, recovered and death cases per country**
 
@@ -224,13 +222,13 @@ Considering the trend of USD/PHP, it was largely consistent throughout this peri
 
 Across these 5 currencies, except for Philippine peso, we can see a distinct depreciation in their currency against the US dollar. 
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig7_p2.png">
+<img class="ui fluid image"  src="../images/fig7_p2.png">
 
 **The distinct trend caused by the pandemic**
 
 Looking at Figure 7, it was clear that on average there was an increasing trend towards the first quarter of 2020. Out of the five currencies, four currencies, namely Singapore dollars, Indonesian rupiah, Thai baht, and Malaysia ringgit depreciated against the US dollars. Similarly, for the Philippine peso, there was a depreciation in mid to late March 2020 before increasing again.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig8_p2.png">
+<img class="ui fluid image"  src="../images/fig8_p2.png">
 
 Furthermore, Figure 8 showed a strong change in Singapore dollars, Indonesian rupiah, Thai baht, and Malaysia ringgit. The strong change could be seen from the outliers of these currencies. 
 
@@ -244,9 +242,9 @@ No actions will be taken against these outliers as removal or changing them woul
 
 Before we drive deeper into the relationship between the forex exchange and COVID-19 pandemic, we looked at how the COVID-19 affected air quality in these ASEAN countries as countries around Asia decreased operations of factory, airports, traffic and commercial activities (Leika, 2020). We will also evaluate the air quality of China, as China was the first to suspend her factory operations due to the pandemic.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig9_p2.png">
+<img class="ui fluid image"  src="../images/fig9_p2.png">
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig10_p2.PNG">
+<img class="ui fluid image"  src="../images/fig10_p2.PNG">
 
 Image Source: https://aqicn.org/scale/
 
@@ -258,7 +256,7 @@ The mean PM2.5, PM10 and AQI for China from 30th December 2019 to 13th April 202
 
 Considering the air quality index scale, China on average had an unhealthy level of PM2.5, moderate level of PM10 and AQI.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig11_p2.PNG">
+<img class="ui fluid image"  src="../images/fig11_p2.PNG">
 
 **The trend of air quality index in China and Malaysia from 31st December 2019 to 13th April 2020**
 
@@ -268,7 +266,7 @@ On 16th February, China saw the lowest recorded concentration of AQI at 25.25μg
 
 Malaysia, on the other hand, had a constant AQI trend throughout the period, which was roughly around 45μg/m3 at a healthy level. Malaysia on the 18th of March 2020 (Tashy, 2020) had suspended non-essential operations such as the operation of small businesses and factories. Looking at Figure 11, the trend after 18th March remained the same at a healthy level.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig12_p2.PNG">
+<img class="ui fluid image"  src="h../images/fig12_p2.PNG">
 
 PM10 is an inhalable particulate matter which is less than 10 micrometers in diameter and it has a known association with various diseases such as lung cancer and respiratory impairment (Hoek et al., 2012). The result of our study showed no obvious trend in PM10 distribution in Indonesia, Singapore, and the Philippines. In these countries, the trend of PM10 concentration was consistent throughout the recorded period. Thailand and China, on the other hand, have a weak downward trend as we move towards the right of the graph. We could see a drop in PM10 concentration after 28th February in Thailand and January 25th for China.
 
@@ -276,7 +274,7 @@ Singapore, Indonesia, and the Philippines had a desirable PM10 concentration whi
 
 It was interesting to see Thailand air quality improving at the beginning of March. Next, we analyzed Thailand's maximum, minimum and median air quality in different state using the moving average of the indicator.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig13_1_p2.png">
+<img class="ui fluid image"  src="../images/fig13_1_p2.png">
 
 PM10 is an inhalable particulate matter which is less than 10 micrometers in diameter and it has a known association with various diseases such as lung cancer and respiratory impairment (Hoek et al., 2012). The result of our study showed no obvious trend in PM10 distribution in Indonesia, Singapore, and the Philippines. In these countries, the trend of PM10 concentration was consistent throughout the recorded period. Thailand and China, on the other hand, have a weak downward trend as we move towards the right of the graph. We could see a drop in PM10 concentration after 28th February in Thailand and January 25th for China.
 
@@ -284,9 +282,9 @@ Singapore, Indonesia, and the Philippines had a desirable PM10 concentration whi
 
 It was interesting to see Thailand air quality improving at the beginning of March. Next, we analyzed Thailand's maximum, minimum and median air quality in different state using the moving average of the indicator.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig13_2_p2.png">
+<img class="ui fluid image"  src="../images/fig13_2_p2.png">
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig13_3_p2.png">
+<img class="ui fluid image"  src="../images/fig13_3_p2.png">
 
 Air pollution has been a constant problem in Thailand, especially when after harvesting season. The spike seen above are mostly caused by forest fires, wild fires and the burning off of crops after harvesting season. The air pollution in Chiang Mai started to worsen at the start of February. While Bangkok air pollution worsen in April as PM10 concentration raised.
 
@@ -294,7 +292,7 @@ The highest PM10 and PM2.5 concentrations recorded during this period was 630μg
 
 Looking at Figure 13 A, B and C, it was evident that the air quality in Thailand were heavily influence by burning of crops after harvesting season, wild fire and forest fire. Perhaps the improvement in air quality shown in Figure 12 were due to the actions of the local authorities in combating the fires instead of COVID-19 pandemic.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig14_p2.PNG">
+<img class="ui fluid image"  src="../images/fig14_p2.PNG">
 
 PM2.5 has been revealed by scientists having a significant correlation to respiratory morbidity and mortality(Brunekreef & Holgate, 2002). In the European Union, it was found that PM2.5 decreased the average life of those affected by 8.6 months(Orru et al., 2011; Xing, Xu, Shi, & Lian, 2016). Hence, it is important to access the concentration of PM2.5. 
 
@@ -312,7 +310,7 @@ In China, it was clear that the pandemic had caused a reduction in air pollution
 
 Here, the relationship between the COVID-19 pandemic, ASEAN foreign exchange, and air quality was performed.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig15_p2.png">
+<img class="ui fluid image"  src="../images/fig15_p2.png">
 
 **3.4.1. Analysis, Results, and Discussion**
 - There was a strong positive correlation between Indonesia COVID-19 confirmed cases and Indonesia rupiah depreciation. 
@@ -331,7 +329,7 @@ Investors seeking safe havens are moving from stocks to government securities an
 
 According to Ong (2020) Philippine peso was defying the global rout due to investors were moving from stocks to government securities. Also, the bonds offered by the Philippine government have high yield, hence, investors were more likely to invest in government securities. 
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig16_p2.png">
+<img class="ui fluid image"  src="../images/fig16_p2.png">
 
 **The relationship between the number of confirmed cases and PM10 pollutant**
 
@@ -341,7 +339,7 @@ According to Ong (2020) Philippine peso was defying the global rout due to inves
 - China have a weak negative correlation between her PM10 concentration and confirmed number of COVID-19 cases.
 - A moderate degree of negative correlation between Philippines PM10 concentration and the confirmed cases of COVID-19 can be seen.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig17_p2.png">
+<img class="ui fluid image"  src="../images/fig17_p2.png">
 
 **The relationship between the number of confirmed cases and AQI and PM2.5**
 
