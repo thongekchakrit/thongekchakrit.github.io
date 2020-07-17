@@ -1,16 +1,14 @@
 ---
 layout: essay
 type: essay
-title: The Effect of an Aging Population on the Economy, An Analysis on Singapore 1983-2018
+title: The Impact of the Novel Coronavirus Disease 2019 on the ASEAN Foreign Exchange Rate and Air Quality (Jan 2020 to April 2020)
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-29
 labels:
   - Introduction to Data Analysis
   - Data Analysis
   - Data Visualization
-  - Yahoo finance Scrape
-  - Air quality
-  - COVID-19
+  - COVID-19, Air quality, Yahoo finance
   - Pandas, NumPy, Seaborn, Matplotlib
   - Bokeh, JSON, BeatifulSoup, Plotly
 ---
