@@ -149,15 +149,15 @@ The period before any ASEAN member having a death case caused by COVID-19 will b
 
 To gain a better insight into the foreign currencies during COVID-19 pandemic, we evaluated the foreign currencies of Malaysian ringgit,Philippines peso, Singapore dollar, Indonesian rupiah and Thai baht with a period of 6 months prior to 31st January 2020 (1st and 2nd February Market closes).
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig5_1_p2.png">
+<img class="ui fluid image"  src="../images/fig5_1_p2.png">
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig5_2_p2.png">
+<img class="ui fluid image"  src="../images/fig5_2_p2.png">
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig5_3_p2.png">
+<img class="ui fluid image"  src="../images/fig5_3_p2.png">
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig5_4_p2.png">
+<img class="ui fluid image"  src="../images/fig5_4_p2.png">
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig5_5_p2.png">
+<img class="ui fluid image"  src="../images/fig5_5_p2.png">
 
 **Trend of exchange rates prior to the COVID-19 Pandemic**
 
@@ -173,15 +173,15 @@ During this period the USD/IDR, USD/PHP, and USD/MYR decreased from 14,329 to 13
 
 Analyzing the trend within this time frame, we see a possibility of reversal for Indonesia Rupiah and Malaysian ringgit after mid-January onwards. Although the Philippines had an overall downward trend from 2nd August 2020 to 31st January 2020, however, the Philippines has been having a gradual increase in trend starting in early November 2019.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig6_1_p2.png">
+<img class="ui fluid image"  src="../images/fig6_1_p2.png">
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig6_2_p2.png">
+<img class="ui fluid image"  src="../images/fig6_2_p2.png">
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig6_3_p2.png">
+<img class="ui fluid image"  src="../images/fig6_3_p2.png">
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig6_4_p2.png">
+<img class="ui fluid image"  src="../images/fig6_4_p2.png">
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/covid19-forex-airquality-an-analysis/blob/master/images/fig6_5_p2.png">
+<img class="ui fluid image"  src="../images/fig6_5_p2.png">
 
 **The trend of the currencies amid the COVID-19 Pandemic**
 
