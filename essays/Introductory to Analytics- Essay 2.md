@@ -237,7 +237,7 @@ On 16th February, China saw the lowest recorded concentration of AQI at 25.25μg
 
 Malaysia, on the other hand, had a constant AQI trend throughout the period, which was roughly around 45μg/m3 at a healthy level. Malaysia on the 18th of March 2020 (Tashy, 2020) had suspended non-essential operations such as the operation of small businesses and factories. Looking at Figure 11, the trend after 18th March remained the same at a healthy level.
 
-<img class="ui fluid image"  src="h../images/fig12_p2.PNG">
+<img class="ui fluid image"  src="h../images/fig12_p2.png">
 
 PM10 is an inhalable particulate matter which is less than 10 micrometers in diameter and it has a known association with various diseases such as lung cancer and respiratory impairment (Hoek et al., 2012). The result of our study showed no obvious trend in PM10 distribution in Indonesia, Singapore, and the Philippines. In these countries, the trend of PM10 concentration was consistent throughout the recorded period. Thailand and China, on the other hand, have a weak downward trend as we move towards the right of the graph. We could see a drop in PM10 concentration after 28th February in Thailand and January 25th for China.
 
