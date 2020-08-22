@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/project-1.png
-title: Automated Twitter Keyword and Hashtag Sentiment Analysis
-permalink: projects/twitter-sentiment-analysis
+image: images/Project-2.png
+title: Python Dashboard using Dash. From Backend to Frontend
+permalink: projects/python-dashboard-building
 # All dates must be YYYY-MM-DD format!
-date: 2020-07-14
+date: 2020-08-22
 labels:
   - Python
   - Dash
@@ -19,7 +19,7 @@ summary: Building a Web Application using Python (Dash Module) from Backend to f
 
 # Building Web Application Dashboard Using Python (Dash)
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/dashboard_show.png">
+<img class="ui fluid image"  src="../images/project_2/dashboard_show.png">
 
 The business intelligence dashboard is an important analytics tool that is used to visualize data across all industries. Using these dashboards, useful insights to Business Performance Management such as the critical reporting and metric information can be readily displayed and used by various departments to drive actionable business decisions.
 
@@ -72,11 +72,11 @@ Next, we then query the data from the database, perform ELT techniques, denormal
 
 Lastly, we query the denormalized data from the data warehouse, run it through our application, and our application will visualize the data onto a web address.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/DATA%20FLOW.png">
+<img class="ui fluid image"  src="../images/project_2/DATA%20FLOW.png">
 
 ## 3. Normalized Database Schema
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/Product%20details%20and%20Sale%20Order%20Details.png">
+<img class="ui fluid image"  src="../images/project_2/Product%20details%20and%20Sale%20Order%20Details.png">
 
 ## 4. Folder Structure
 The structure of the Dash application is presented below:
@@ -112,13 +112,13 @@ cd Dashboard_sales_orders_product
 DBmanager.py
 ```
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/cmd_1.PNG">
+<img class="ui fluid image"  src="../images/project_2/cmd_1.PNG">
 
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/cmd_2.PNG">
+<img class="ui fluid image"  src="../images/project_2/cmd_2.PNG">
 
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/cmd_3.PNG">
+<img class="ui fluid image"  src="../images/project_2/cmd_3.PNG">
 
 After the population of database and data warehouse, the next step is to run the Dash application using app.py file. The Dash application will start, and as we set the app.py to run in development mode, a development IP server will be generated.
 
@@ -127,7 +127,7 @@ Type in cmd:
 app.py
 ```
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/cmd_4.PNG">
+<img class="ui fluid image"  src="../images/project_2/cmd_4.PNG">
 
 Copy 'http://127.0.0.1:8050/' and insert it into any browser to show our dashboard.
 
@@ -135,19 +135,19 @@ Capture.PNG
 
 In total, there are 4 visualization and 6 KPI shown.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/KPI_indicator.png">
+<img class="ui fluid image"  src="../images/project_2/KPI_indicator.png">
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/dashboard_graph.png">
+<img class="ui fluid image"  src="../images/project_2/dashboard_graph.png">
 
 The data points on the data visualization can be hovered.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/dashboard.PNG">
+<img class="ui fluid image"  src="../images/project_2/dashboard.PNG">
 
 Using dash callback python declarators, the first data figure can be interacted with. I've made a drop down menu, which parses in the variable to the plotly graph, and the graph will be generating depending on the variable.
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/dashboard_graph1.png">
+<img class="ui fluid image"  src="../images/project_2/dashboard_graph1.png">
 
-<img class="ui fluid image"  src="https://github.com/thongekchakrit/dashboard_dash_mock_sales/blob/master/assets/images/dashboard_graph2.png">
+<img class="ui fluid image"  src="../images/project_2/dashboard_graph2.png">
 
 ## 6. Future implementation
 The future implementation of Conversational Analytics may be done using dash_core_components 'input' syntax.
