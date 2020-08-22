@@ -14,6 +14,9 @@ labels:
   - Bootstrap
   - Plotly
   - ETL
+  - Data Modeling
+  - Data Engineering
+  - Visualization
 summary: Building a Web Application using Python (Dash Module) from Backend to frontend (A complete Project). Incorporates HTML, CSS and Bootstraping. 
 ---
 
